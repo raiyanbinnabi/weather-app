@@ -4,10 +4,8 @@ body {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
-
     display: flex;
     flex-direction: column;
-    min-height: 100vh
 }
 
 .main-content {
@@ -16,9 +14,9 @@ body {
 
 footer {
     color: #888888;
-    border-top: 1px solid #eeeeee;
-    margin-top: 16px;
-    padding: 16px 0;
+    border-top: 3px solid #eeeeee;
+    position: relative;
+    top: 200px;
 }
 
 header {
